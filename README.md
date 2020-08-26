@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="1000" height="243" src="https://github.com/lis-r-barreto/open-source-software-development-methods/blob/master/cover.png">
+</p>
+
 ## Overview
 
 In this course, we will define what open source software is, we will go over the history of open source software and what benefits it has provided to the world’s technology infrastructure over the decades. The course aims to teach you how to work in open source projects productively and gain a lot of benefits from it, and really understand what the advantages are. You will learn about collaboration best practices, and how to encourage diversity in open source projects. We will discuss the different licensing models that are available, as this will help you decide what the best license is for your project. We will talk about methods that are commonly used, such as Continuous Integration, and use of GitHub and other hosting providers as a central meeting place for open source projects, and we will provide some examples of successful open source projects.
